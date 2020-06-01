@@ -58,7 +58,7 @@
     "_groupIndex": 0,
     "groupIndex": 0,
     "autoReleaseAssets": false,
-    "_id": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    "_id": "ece90d08-3b14-4330-b885-67d07c205ccc"
   },
   {
     "__type__": "cc.Node",
@@ -180,7 +180,7 @@
       "array": [
         0,
         0,
-        379.31912685758414,
+        510.95498823281883,
         0,
         0,
         0,
@@ -482,7 +482,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 342.33,
+      "width": 291.27,
       "height": 75.6
     },
     "_anchorPoint": {
@@ -533,8 +533,8 @@
       }
     ],
     "_useOriginalSize": false,
-    "_string": "Hello, World!",
-    "_N$string": "Hello, World!",
+    "_string": "Test YouMi",
+    "_N$string": "Test YouMi",
     "_fontSize": 60,
     "_lineHeight": 60,
     "_enableWrapText": true,
@@ -569,20 +569,6 @@
     "_id": "11gCAgrApF7b/edNMeN8dp"
   },
   {
-    "__type__": "e1b90/rohdEk4SdmmEZANaD",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 2
-    },
-    "_enabled": true,
-    "label": {
-      "__id__": 11
-    },
-    "text": "hello",
-    "_id": "c8neyGKlxPvYUXfqZvW41P"
-  },
-  {
     "__type__": "cc.Widget",
     "_name": "",
     "_objFlags": 0,
@@ -608,5 +594,16 @@
     "_originalWidth": 0,
     "_originalHeight": 0,
     "_id": "8eCI8l03xEJ4C55HXkg+Wf"
+  },
+  {
+    "__type__": "3d3c6Jb5ihORIrmcFbHysAJ",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "label": null,
+    "_id": "7dWgmz2yNOa59U/WCUXAQw"
   }
 ]
