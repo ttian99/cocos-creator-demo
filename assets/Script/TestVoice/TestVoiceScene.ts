@@ -9,5 +9,6 @@ export default class TestVoiceScene extends cc.Component {
 
     start () {
         yimMgr.init();
+        yimMgr.login();
     }
 }
