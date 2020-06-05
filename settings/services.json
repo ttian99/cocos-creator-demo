@@ -1,6 +1,19 @@
 {
 	"game": {
-		"name": "未知游戏",
-		"appid": "UNKNOW"
-	}
+		"name": "get2048",
+		"appid": "609993128",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "609993128",
+			"services": [
+				{
+					"service_id": "242",
+					"enable": true
+				}
+			]
+		}
+	],
+	"needExecNative": true
 }
